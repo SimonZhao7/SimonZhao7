@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-######I am currently working on: [BlogPage](https://github.com/KrypT1cC/Blog-Page)
+I am currently working on: [BlogPage](https://github.com/KrypT1cC/Blog-Page)
 
 ###
 
