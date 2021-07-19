@@ -5,6 +5,7 @@
 #### I am currently working on: ####
 
 * [Blog Page](https://github.com/KrypT1cC/Blog-Page)
+* [Blog Page (Django Version)](https://github.com/SimonZhao7/Blog-Page-Django)
 
 <br/>
 
