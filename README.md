@@ -6,6 +6,7 @@
 
 * [Blog Page](https://github.com/KrypT1cC/Blog-Page)
 * [Blog Page (Django Version)](https://github.com/SimonZhao7/Blog-Page-Django)
+* [Appointment App](https://github.com/SimonZhao7/Appointment-App)
 
 <br/>
 
