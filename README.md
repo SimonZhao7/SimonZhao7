@@ -4,9 +4,8 @@
 
 #### I am currently working on: ####
 
-* [Blog Page](https://github.com/KrypT1cC/Blog-Page)
-* [Blog Page (Django Version)](https://github.com/SimonZhao7/Blog-Page-Django)
-* [Appointment App (Private)](https://github.com/SimonZhao7/Appointment-App)
+* [Study Stream](https://github.com/SimonZhao7/StudyStream)
+* [Study Stream (API)](https://github.com/SimonZhao7/StudyStreamAPI)
 
 <br/>
 
