@@ -1,6 +1,6 @@
 ### Hi there :wave: ###
 
-:hugs: I am a junior in high school who aspires to work in the tech industry. I look forward to possibly working with people or getting an internship opportunity in the future. :hugs:
+:hugs: I am a senior in high school who aspires to work in the tech industry. I look forward to possibly working with people or getting an internship opportunity in the future. :hugs:
 
 #### I am currently working on: ####
 
