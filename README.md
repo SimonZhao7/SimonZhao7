@@ -1,6 +1,6 @@
-### Hi there :wave: ###
+### Hello :wave: ###
 
-:hugs: I am a senior in high school who aspires to work in the tech industry. I look forward to possibly working with people or getting an internship opportunity in the future. :hugs:
+:hugs: I am a freshman at UCSC and I am majoring in CS. I look forward to working with others and getting an internship opportunity. :hugs:
 
 #### I am currently working on: ####
 
