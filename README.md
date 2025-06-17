@@ -1,6 +1,6 @@
 ### Hello :wave: ###
 
-:hugs: I am a 3rd year student at UCSC and I am majoring in CS. I look forward to working with others and getting an internship opportunity. :hugs:
+:hugs: I am a recent CS graduate from the University of California, Santa Cruz. :hugs:
 
 #### I am currently working on: ####
 
